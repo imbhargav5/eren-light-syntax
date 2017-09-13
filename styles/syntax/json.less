@@ -1,4 +1,7 @@
 .syntax--source.syntax--json {
+  .syntax--string {
+    color: @hue-7;
+  }
   .syntax--meta.syntax--structure.syntax--dictionary.syntax--json {
     & > .syntax--string.syntax--quoted.syntax--json {
       & > .syntax--punctuation.syntax--string {
@@ -21,7 +24,7 @@
     }
 
     & > .syntax--constant.syntax--language.syntax--json {
-      color: @hue-1;
+      color: @hue-7;
     }
   }
   .syntax--link {
