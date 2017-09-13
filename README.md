@@ -1,5 +1,7 @@
 # eren-syntax theme
 
-A short description of your theme.
+A crisp light syntax for instructors.
 
-![A screenshot of your theme](https://github.com/imbhargav5/eren-light-syntax/blob/master/screenshot.png)
+## Screenshot
+
+<img src="https://github.com/imbhargav5/eren-light-syntax/blob/master/screenshot.png" height="720 width="auto"/>
