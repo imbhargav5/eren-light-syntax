@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "A crisp light syntax for instructors",
   "keywords": ["syntax", "theme"],
-  "repository": "https://github.com/atom/eren-light-syntax",
+  "repository": "git@github.com:imbhargav5/eren-light-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
