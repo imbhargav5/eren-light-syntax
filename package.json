@@ -1,8 +1,8 @@
 {
-  "name": "mikasa-syntax",
+  "name": "imbhargav-light-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A crisp light sytax for better vision",
   "keywords": ["syntax", "theme"],
   "repository": "https://github.com/atom/mikasa-syntax",
   "license": "MIT",
