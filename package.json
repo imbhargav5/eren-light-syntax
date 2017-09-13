@@ -1,9 +1,12 @@
 {
   "name": "eren-light-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A crisp light syntax for instructors",
-  "keywords": ["syntax", "theme"],
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
   "repository": "https://github.com/imbhargav5/eren-light-syntax",
   "license": "MIT",
   "engines": {
