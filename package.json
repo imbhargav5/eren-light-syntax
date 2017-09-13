@@ -1,10 +1,10 @@
 {
-  "name": "mikasa-light-syntax",
+  "name": "eren-light-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A crisp light sytax for better vision",
+  "description": "A crisp light syntax for instructors",
   "keywords": ["syntax", "theme"],
-  "repository": "https://github.com/atom/mikasa-syntax",
+  "repository": "https://github.com/imbhargav5/eren-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
